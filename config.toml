@@ -5,7 +5,7 @@ theme = "soho"
 copyright = ""
 publishdir = "praneelrathore.github.io"
 [Author]
-	name = "Author Name"
+	name = "Praneel Rathore"
 [Permalinks]
 	blog = "/:year/:month/:filename/"
 	code = "/:filename/"
@@ -14,7 +14,8 @@ publishdir = "praneelrathore.github.io"
 	series = "series"
 	series-desc = "series-desc"
 [params]
-	description = "Site description"
+	Author = "Praneel Rathore"
+	description = "My Blog - Hide-n-seek"
 	twitter = "https://twitter.com/praneelrathore"
 	github = "https://github.com/praneelrathore"
 	disqus = ""
