@@ -1,0 +1,3 @@
+[submodule "hide-n-seek/themes/soho"]
+	path = hide-n-seek/themes/soho
+	url = git@github.com:praneelrathore/soho.git
