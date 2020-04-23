@@ -1,0 +1,20 @@
+baseurl = "http://praneelrathore.github.io"
+languageCode = "en-us"
+title = "Praneel Rathore"
+theme = "soho"
+copyright = ""
+publishdir = "praneelrathore.github.io"
+[Author]
+	name = "Author Name"
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+[params]
+	description = "Site description"
+	twitter = "https://twitter.com/praneelrathore"
+	github = "https://github.com/praneelrathore"
+	disqus = ""
