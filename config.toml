@@ -4,18 +4,48 @@ title = "Praneel Rathore"
 theme = "soho"
 copyright = ""
 publishdir = "praneelrathore.github.io"
-[Author]
-	name = "Praneel Rathore"
-[Permalinks]
-	blog = "/:year/:month/:filename/"
-	code = "/:filename/"
-[Taxonomies]
-	tag = "tags"
-	series = "series"
-	series-desc = "series-desc"
 [params]
 	Author = "Praneel Rathore"
-	description = "My Blog - Hide-n-seek"
-	twitter = "https://twitter.com/praneelrathore"
-	github = "https://github.com/praneelrathore"
-	disqus = ""
+	description = "Hide-n-seek"
+	gravatar = "/Users/zomato/Code/personal/hide-n-seek/static/IMG_3829.png"
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "post"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
+  
+[[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/praneel-rathore-66215bba/"
+
+[[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/praneelrathore"
+
+[[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/praneelrathore"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
