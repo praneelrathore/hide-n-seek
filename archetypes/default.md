@@ -1,9 +1,5 @@
-+++
-Title = ""
-Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
-menu = "main"
-date = ""
-readingtime = ""
-+++
+---
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---

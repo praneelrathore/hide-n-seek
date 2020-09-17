@@ -1,7 +1,8 @@
+{{ define "title" }}
+    <h1 class="bold-title is-1">{{ .Data.Singular | humanize }}: {{ lower .Title | markdownify }}</h1>
+{{ end }}
+
 {{ define "main" }}
-    <div class="container markdown top-pad">
-        {{ .Content }}
-    </div>
     <div class="container">
         <ul>
             {{ range .Pages.ByPublishDate.Reverse }}
@@ -17,5 +18,4 @@
             {{ end }}
         </ul>
     </div>
-</body>
 {{ end }}
