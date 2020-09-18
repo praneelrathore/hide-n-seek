@@ -1,4 +1,4 @@
-baseurl = "https://praneelrathore.github.io/"
+baseurl = "https://praneelrathore.github.io"
 languageCode = "en-us"
 title = "Praneel Rathore"
 theme = "introduction"
@@ -8,16 +8,3 @@ publishdir = "praneelrathore.github.io"
 	Author = "Praneel Rathore"
 	description = "Hide-n-seek"
 	gravatar = "/Users/zomato/Code/personal/hide-n-seek/static/IMG_3829.png"
-
-[markup]
-
-  [markup.highlight]
-  codeFences = true
-  guessSyntax = false
-  hl_Lines = ""
-  lineNoStart = 1
-  lineNos = false
-  lineNumbersInTable = true
-  noClasses = true # if false, you need to provide you own custom CSS
-  style = "monokai"
-  tabWidth = 4
