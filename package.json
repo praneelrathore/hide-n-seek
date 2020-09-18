@@ -1,0 +1,26 @@
+{
+  "name": "hide-n-seek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.0.0",
+    "hugo-extended": "^0.75.1",
+    "postcss": "^8.0.5",
+    "postcss-cli": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneelrathore/hide-n-seek.git"
+  },
+  "author": "praneel-rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneelrathore/hide-n-seek/issues"
+  },
+  "homepage": "https://github.com/praneelrathore/hide-n-seek#readme"
+}

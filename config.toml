@@ -8,34 +8,6 @@ publishdir = "praneelrathore.github.io"
 	Author = "Praneel Rathore"
 	description = "Hide-n-seek"
 	gravatar = "/Users/zomato/Code/personal/hide-n-seek/static/IMG_3829.png"
-[menu]
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "post"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 300
-  url = "/about/"
-  
-[[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "https://www.linkedin.com/in/praneel-rathore-66215bba/"
-
-[[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "https://github.com/praneelrathore"
-
-[[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "https://twitter.com/praneelrathore"
 
 [markup]
 

@@ -1,6 +1,3 @@
 [submodule "praneelrathore.github.io"]
 	path = praneelrathore.github.io
 	url = git@github.com:praneelrathore/praneelrathore.github.io.git
-[submodule "themes/introduction"]
-	path = themes/introduction
-	url = https://github.com/praneelrathore/hugo-theme-introduction
