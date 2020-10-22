@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "autoprefixer": "^10.0.0",
+    "autoprefixer": "^9.8.6",
     "hugo-extended": "^0.75.1",
-    "postcss": "^8.0.5",
+    "postcss": "^8.1.2",
     "postcss-cli": "^7.1.2"
   },
   "devDependencies": {},
