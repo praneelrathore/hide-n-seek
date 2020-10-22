@@ -8,3 +8,18 @@ publishdir = "praneelrathore.github.io"
 	Author = "Praneel Rathore"
 	description = "Hide-n-seek"
 	gravatar = "/Users/zomato/Code/personal/hide-n-seek/static/IMG_3829.png"
+	dateFormat = "Jan 2, 2006"
+	email = "praneelrathore@gmail.com"
+
+	[[params.social]]
+        url   = "https://twitter.com/praneelrathore"
+        icon  = "twitter" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.linkedin.com/in/praneel-rathore-66215bba/"
+        icon  = "linkedin-in" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url = "mailto:praneelrathore@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+        icon = "paper-plane" # icon name without the 'fa-'
+        icon_pack = "fas"
