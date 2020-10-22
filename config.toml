@@ -1,5 +1,4 @@
-baseurl = "https://praneelrathore.github.io"
-languageCode = "en-us"
+baseURL = "https://praneelrathore.github.io/"
 title = "Praneel Rathore"
 theme = "introduction"
 copyright = ""
@@ -7,7 +6,6 @@ publishdir = "praneelrathore.github.io"
 [params]
 	Author = "Praneel Rathore"
 	description = "Hide-n-seek"
-	gravatar = "/Users/zomato/Code/personal/hide-n-seek/static/IMG_3829.png"
 	dateFormat = "Jan 2, 2006"
 	email = "praneelrathore@gmail.com"
 
