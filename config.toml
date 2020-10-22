@@ -23,3 +23,7 @@ publishdir = "praneelrathore.github.io"
         url = "mailto:praneelrathore@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
+	[[params.social]]
+        url   = "https://www.github.com/praneelrathore"
+        icon  = "github" # icon name without the 'fa-'
+        icon_pack = "fab"
